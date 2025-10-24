@@ -1,2 +1,2 @@
-# kubernetes-storage-provisioning
-Examples for dynamic provisioning: CSI snippets, StorageClass, and NFS/EBS examples and backup policy.
+# Kubernetes Storage Provisioning
+Examples for StorageClass, CSI, and backup (Velero).
