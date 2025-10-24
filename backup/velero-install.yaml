@@ -1,0 +1,5 @@
+# Velero simplified install snippet
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: velero
